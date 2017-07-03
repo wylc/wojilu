@@ -35,6 +35,7 @@
 
 官方网址：<http://www.wojilu.com>  
 开发教程：<http://www.wojilu.com/framework>
+可以加群交流：635727104
 
 授权协议：**Apache License**，可免费用于商业环境  
 
